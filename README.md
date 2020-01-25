@@ -1,3 +1,4 @@
+![Flutter Curso Banner](https://github.com/FlutterCurso/Imagens/blob/master/FlutterCursoBanner.png)
 # Eu Sou Rico 💎
 
 ## Visão Geral
